@@ -1,0 +1,9 @@
+[submodule "esp8266"]
+	path = esp8266
+	url = git@github.com:innovate-invent/esp8266.git
+[submodule "micropython-lib"]
+	path = micropython-lib
+	url = git@github.com:innovate-invent/micropython-lib.git
+[submodule "micropython"]
+	path = micropython
+	url = git@github.com:micropython/micropython.git
